@@ -2,6 +2,7 @@
 
 year = 2010
 year = 1000
+year = 3000
 
 # To get year (integer input) from the user
 # year = int(input("Enter a year: "))
